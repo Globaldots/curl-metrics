@@ -13,7 +13,6 @@ N=$1
 TEST=test
 
 URL="https://some.domain.co/library/assets/JsonFile/co.domain.styles.neighborhood.elephant.json?mt=123"
-URL="https://my.globaldots.com/"
 
 declare -a vars
 # this is a list of curl metrics to output
