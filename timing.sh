@@ -1,3 +1,5 @@
+#!/bin/sh -
+
 # save as timing.sh
 # execute:  ./timing.sh 100
 
